@@ -1,0 +1,37 @@
+.site-header{
+    background-color: #000;
+    border-bottom: 1px solid #eaeaea;
+    /* margin-bottom: 20px; */
+    padding: 20px 0;
+    color: #fff;
+    font-family: "Montserrat", Sans-serif;
+}
+
+/* Navigation menu styles */
+nav ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+/* Navigation menu list item styles */
+nav ul li{
+  font-family: "Montserrat", Sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  text-transform: uppercase;
+  line-height: 26px;
+  letter-spacing: 0.65px;
+}
+
+/* Navigation menu link hover styles */
+nav ul li a:hover{
+    color: #ef1ad6;
+}
+
+/* Navigation menu link styles */
+nav ul li a{
+    text-decoration: none;
+    color: #000;
+    display: inline-block;
+} /* end nav ul li a */
