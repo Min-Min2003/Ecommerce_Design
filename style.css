@@ -35,3 +35,21 @@ nav ul li a{
     color: #000;
     display: inline-block;
 } /* end nav ul li a */
+
+.search-bar-container{
+    position: absolute; 
+    top: 60%;
+    left: 20%; 
+    transform: translate(-50%, -50%); 
+    width: 22%; 
+}
+
+.search-bar-text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    color: #000;
+    margin-bottom: 20px;
+    line-height: 26px;
+    letter-spacing: 7px;
+}
